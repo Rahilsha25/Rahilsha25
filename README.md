@@ -14,6 +14,10 @@ I am a student, currently studying in Chandigarh University. From very early on 
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap, Jquery
+- **Game Development**
+	- 3D ❤️
+	- 2D
+	- AR / VR Development
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
