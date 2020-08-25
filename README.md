@@ -26,9 +26,9 @@ I am a student, currently studying in Chandigarh University. From very early on 
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/Rahilsha25?label=Follow&style=social)](https://github.com/Rahlisha25)
-[![Instagram](https://img.shields.io/badge/-@rahilsha2000-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/rahilsha2000/)
+[![Instagram](https://img.shields.io/badge/-@rahilsha2000-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rahilshadiwan?label=Follow&style=social)](https://www.instagram.com/rahilsha2000/)
 [![Linkedin](https://img.shields.io/badge/-rahilshadiwan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahilshadiwan/)](https://www.linkedin.com/in/rahilshadiwan/)
-[![Mail](https://img.shields.io/badge/-rahilsha2000@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/rahilshadiwan/)](mailto:rahlisha2000@gmail.com)
+[![Mail](https://img.shields.io/badge/-rahilsha2000@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.mail.google.com/in/rahilshadiwan/)](mailto:rahlisha2000@gmail.com)
 
 
 ### Interesting stats
