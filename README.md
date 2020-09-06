@@ -20,6 +20,7 @@ I am a student, currently studying in Chandigarh University. From very early on 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
 - At least delve into AI and ML.
+- To become a Great Game Developer.
 - Unlock the secret to the universe :rofl:
 
 ## Reach me 
